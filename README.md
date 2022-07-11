@@ -18,7 +18,7 @@ This Dataset consists of following columns like 'UniqueID', 'ParceID', 'LandUse'
 
 ![](Images/Excel_data.png)
 
-In this project, cleaned the Nashville Housing Excel data in MS SQL Server Managament Studio such as Date Format, Property and Owner Address , Changed the SoldAsVacant column from Y to Yes and No to N, Removed Duplication of data using CTE and deleted unused columns
+In this project, cleaned the Nashville Housing Excel data in MS SQL Server Management Studio such as Date Format, Property and Owner Address , Changed the SoldAsVacant column from Y to Yes and No to N, Removed Duplication of data using CTE and deleted unused columns
 
 ## Loaded the Excel data to SQL Server
 
